@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Sadjad 😄, a developer 👨🏻‍💻 from Tehran . I'm an Mobile Developer [Android] and all things about realtime apps. I like Movies and Shopping 📺🛍️.
+I'm Sadjad 😄, a developer 👨🏻‍💻 from Tehran . I'm an Mobile Developer [Android] and all things about realtime apps. I like Movies and Shopping 📺🛍️.
 
 <!--- **sadjadtalakoob74/sadjadtalakoob74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
