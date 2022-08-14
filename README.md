@@ -7,6 +7,7 @@ Here are some ideas to get you started:-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadjadtalakoob74&show_icons=true&theme=merko)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadjadtalakoob74&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadjadtalakoob74&theme=merko&layout=compact)
 
 
 **Here we go**
