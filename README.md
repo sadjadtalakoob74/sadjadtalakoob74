@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 
 - 👨🏻‍💻 I’m currently working on Android Application Projects
 - 🎯 I’m currently developing with Flutter 
-- 🌱 I’m currently learning Test Driven Design
+- 🌱 I’m currently learning Spring boot & Hive
 
 <!--- 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
