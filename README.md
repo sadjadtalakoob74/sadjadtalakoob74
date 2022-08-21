@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sadjad 😄, a developer 👨🏻‍💻 from Tehran . I'm an Mobile Developer [Android] and all things about realtime apps. I like Movies and Shopping 📺🛍️.
+I'm Sadjad 😄, a developer 👨🏻‍💻 from Tehran . I'm a developer who work in both mobile & backend tech stack.
 
 <!--- **sadjadtalakoob74/sadjadtalakoob74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,8 +11,8 @@ Here are some ideas to get you started:-->
 
 **Here we go**
 
-- 👨🏻‍💻 I’m currently working on Android Application Projects
-- 🎯 I’m currently developing with Flutter 
+- 👨🏻‍💻 I’m currently working on Flutter team
+- 🎯 I’m currently developing with Flutter, Java 
 - 🌱 I’m currently learning Spring boot & Hive
 
 <!--- 🤔 I’m looking for help with ...
