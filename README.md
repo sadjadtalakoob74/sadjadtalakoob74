@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadjadtalakoob74&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadjadtalakoob74&theme=merko&layout=compact)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadjadtalakoob74)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadjadtalakoob74&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 **Here we go**
 
