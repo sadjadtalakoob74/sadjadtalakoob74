@@ -13,8 +13,8 @@ Here are some ideas to get you started:-->
 **Here we go**
 
 - 👨🏻‍💻 I’m currently working on Flutter team
-- 🎯 I’m currently developing with Flutter, Java 
-- 🌱 I’m currently learning Spring boot & Hive
+- 🎯 I’m recently start Flutte Testing 
+- 🌱 In future i will add some Kotlin projects to my repos
 
 <!--- 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
