@@ -4,7 +4,7 @@ I'm Sajjad 👨‍💻<!---, a developer 👨🏻‍💻 from Tehran . I'm a dev
 ## 📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sadjad-talakoob-stala74/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sadjadtalakoob74@gmail.com)
-[![WebSite](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=googlechrome)](http://sajjad-talakoob-resume.freehost.io/)
+[![WebSite](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=googlechrome&logoColor=white)](http://sajjad-talakoob-resume.freehost.io/)
 
 ## 💻 Technology Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 	![Kotlin](https://img.shields.io/badge/Kotlin-B41FEA?style=for-the-badge&logo=Kotlin&logoColor=white)
