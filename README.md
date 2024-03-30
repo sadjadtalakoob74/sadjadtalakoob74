@@ -18,6 +18,9 @@ Here are some ideas to get you started:-->
 <br>
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadjadtalakoob74&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sadjadtalakoob&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <!--**Here we go**
 
 - 👨🏻‍💻 I’m currently working on Flutter team
