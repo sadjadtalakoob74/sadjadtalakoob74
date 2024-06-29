@@ -7,7 +7,7 @@ I'm Sajjad 👨‍💻<!---, a developer 👨🏻‍💻 from Tehran . I'm a dev
 [![WebSite](https://img.shields.io/badge/-Visit%20My%20Website!-black?style=for-the-badge&logo=googlechrome&logoColor=white)](http://sajjad-talakoob-resume.freehost.io/)
 
 ## 💻 Technology Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 	![Kotlin](https://img.shields.io/badge/Kotlin-B41FEA?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/React-%230175C2.svg?style=for-the-badge&logo=React&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-B41FEA?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 <!--- **sadjadtalakoob74/sadjadtalakoob74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
